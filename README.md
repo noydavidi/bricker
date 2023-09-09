@@ -16,8 +16,7 @@ If the player loses all of their lives, the game is over.
 
 **Controls**
 
-Move the paddle: Left mouse button
-Shoot the ball: Spacebar
+Move the paddle: Left and Right in keyboard
 
 Features
 
@@ -29,3 +28,14 @@ There are also power-ups that can be collected to help the player, such as a bal
 I learned a lot about object-oriented programming while working on this project.
 I learned how to create classes, objects, and methods. I also learned how to use inheritance and polymorphism.
 I also learned about game development and software engineering. I learned how to design games and how to implement them using object-oriented programming principles.
+
+
+
+![1](https://github.com/noydavidi/bricker/assets/77931201/498b7b94-6f3d-4f64-8307-bbefbe156acc)
+
+![2](https://github.com/noydavidi/bricker/assets/77931201/ee9a88a0-7d2c-4824-9f4a-5c794274f61a)
+
+![3](https://github.com/noydavidi/bricker/assets/77931201/74e8fd69-a847-45be-bf20-b47c4b98f9df)
+
+
+
